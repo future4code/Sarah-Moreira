@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 meu nome é sarah nao é jonnie
+=======
+gosto muito de jogar lol sou manezinha e vou diminuir a quantidade de coisas escritas porque to fazendo tudo de novo
+>>>>>>> f2d0f3a7b81d0395e8418349c962474161babd42
